@@ -1,4 +1,4 @@
-# App de previsão do tempo 👋
+# App de previsão do tempo
 
 Aplicativo feito em react native utilizando o expo para previsão do tempo
 Integração com a API weatherapi para busca dos dados
