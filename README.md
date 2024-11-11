@@ -1,8 +1,8 @@
 # App de previsão do tempo
 
 Aplicativo feito em react native utilizando o expo para previsão do tempo
-Integração com a API weatherapi para busca dos dados
-O app salva último local selecionado ao ser fechado
+- Integração com a API weatherapi para busca dos dados
+- O app salva último local selecionado ao ser fechado
 
 
 ## Get started
